@@ -20,34 +20,34 @@ This project aims to create a stylish Github profile by customizing your Github 
 ## Examples
 Here are some examples of customizable elements in the `style.css` file:
 css
-/* Background color of header */ \n
+/* Background color of header */ \
 .header {
   background-color: #F1F1F1;
-} \n
+} \
 
-/* Background color of body */ \n
+/* Background color of body */ \
 body {
   background-color: #FFF;
 } \n
 
-/* Color of text */ \n
+/* Color of text */ \
 p, h1, h2, h3 {
   color: #333;
-}\n
+}\
 
-/* Add border around profile image */ \n
+/* Add border around profile image */ \
 img.avatar {
   border: 2px solid #555;
-} \n
+} \
 
-/* Add animation to cards */ \n
+/* Add animation to cards */ \
 .card {
   transition: transform .2s;
-} \n
+} \
 
 .card:hover {
   transform: scale(1.1);
-} \n
+} \
 
 
 ## Resources

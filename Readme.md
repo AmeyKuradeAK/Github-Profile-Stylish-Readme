@@ -1,4 +1,4 @@
-```
+
 # Stylish Github Profile
 
 ## Description
@@ -19,7 +19,7 @@ This project aims to create a stylish Github profile by customizing your Github 
 
 ## Examples
 Here are some examples of customizable elements in the `style.css` file:
-```css
+css
 /* Background color of header */
 .header {
   background-color: #F1F1F1;
@@ -48,9 +48,8 @@ img.avatar {
 .card:hover {
   transform: scale(1.1);
 }
-```
+
 
 ## Resources
 * [Github Pages](https://pages.github.com/)
 * [Font Awesome Icons](https://fontawesome.com/)
-```
